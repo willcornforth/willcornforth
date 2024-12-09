@@ -1,7 +1,6 @@
-- Full-Stack Development, Bespoke Web Applications
+- Full-Stack Development, Windows Applications, Embedded Software
 - C, C++, C#, React, Node.js, Rust
 - Reverse Engineering
-- Embedded Software
 
 <!---
 willcornforth/willcornforth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
